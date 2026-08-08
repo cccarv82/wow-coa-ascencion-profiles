@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: ClearQuests
+## Notes: Assist you in clearing your quest log from unwanted quests
+## Author: BanditTech
+## Version: v1.1.5
+
+##SavedVariables: CQOptions
+
+ClearQuests.lua
